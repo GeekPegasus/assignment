@@ -1,0 +1,11 @@
+C:\Users\cathr\OneDrive\Documents\GitHub\assignment\assignment\bin\Debug\netcoreapp3.1\assignment.exe
+C:\Users\cathr\OneDrive\Documents\GitHub\assignment\assignment\bin\Debug\netcoreapp3.1\assignment.deps.json
+C:\Users\cathr\OneDrive\Documents\GitHub\assignment\assignment\bin\Debug\netcoreapp3.1\assignment.runtimeconfig.json
+C:\Users\cathr\OneDrive\Documents\GitHub\assignment\assignment\bin\Debug\netcoreapp3.1\assignment.runtimeconfig.dev.json
+C:\Users\cathr\OneDrive\Documents\GitHub\assignment\assignment\bin\Debug\netcoreapp3.1\assignment.dll
+C:\Users\cathr\OneDrive\Documents\GitHub\assignment\assignment\bin\Debug\netcoreapp3.1\assignment.pdb
+C:\Users\cathr\OneDrive\Documents\GitHub\assignment\assignment\obj\Debug\netcoreapp3.1\assignment.csprojAssemblyReference.cache
+C:\Users\cathr\OneDrive\Documents\GitHub\assignment\assignment\obj\Debug\netcoreapp3.1\assignment.AssemblyInfoInputs.cache
+C:\Users\cathr\OneDrive\Documents\GitHub\assignment\assignment\obj\Debug\netcoreapp3.1\assignment.AssemblyInfo.cs
+C:\Users\cathr\OneDrive\Documents\GitHub\assignment\assignment\obj\Debug\netcoreapp3.1\assignment.dll
+C:\Users\cathr\OneDrive\Documents\GitHub\assignment\assignment\obj\Debug\netcoreapp3.1\assignment.pdb
