@@ -6,7 +6,8 @@ namespace assignment
     class Program
     {
         static void Main(string[] args){
-            Console.WriteLine("Hello!");
+            string[] countries = { "Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus" };
+            Console.WriteLine(countries[0]);
         }
     }
 }
